@@ -1,0 +1,187 @@
+#user_id
+{
+  width: 50%;
+/*background-color: #3CBC8D; */
+  font-size: 2em;
+  padding: 5px 15px;
+  align: center;
+  background-color: #e6e6e6;
+  box-shadow: 5px 2px 2px #888888;
+  margin-left: 20px;
+
+}
+#user_name
+{
+  width: 50%;
+/*background-color: #3CBC8D; */
+  font-size: 2em;
+
+  align: center;
+  /*background-color: #bcdbdb;*/
+  background-color: #e6e6e6;
+  box-shadow: 5px 2px 2px #888888;
+  margin-left: 20px;
+
+
+
+}
+
+#flight
+{
+  width: 50%;
+/*background-color: #3CBC8D; */
+  font-size: 2em;
+  padding: 5px 15px;
+  align: center;
+  /*background-color: #bcdbdb;*/
+  background-color: #e6e6e6;
+  box-shadow: 5px 2px 2px #888888;
+  margin-left: 20px;
+
+
+
+}
+#contact
+{
+  width: 50%;
+/*background-color: #3CBC8D; */
+  font-size: 2em;
+  padding: 5px 15px;
+  align: center;
+  background-color: #e6e6e6;
+  /*background-color: #bcdbdb;*/
+  box-shadow: 5px 2px 2px #888888;
+  align= center;
+  margin-left: 20px;
+
+
+
+}
+#save
+{
+
+
+  background-color: grey;
+  font-size: 1.3em;
+    border: none;
+    color: black;
+    padding: 15px 30px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+    margin-left: 20px;
+}
+#delete
+{
+
+
+background-color: grey;
+font-size: 1.3em;
+    border: none;
+    color: black;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+#update
+{
+
+
+background-color: grey;
+    border: none;
+    color: black;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+
+    cursor: pointer;
+    font-size: 1.3em;
+}
+#scan
+{   position: relative;
+  top:-6px;
+  left:2px;
+    background-color: grey;
+    height: 45px;
+
+    border: none;
+    color: black;
+    padding: 13px 15px;
+    text-decoration: none;
+    margin: 3px 2px;
+    cursor: pointer;
+    font-size: 0.8em;
+}
+p
+{
+  color: red;
+}
+h1
+{
+  text-align: center;
+  color: #000000;
+}
+body{
+  background: linear-gradient(rgba(0,130,170,0),rgba(255,255,255,1)), url("https://thumbs.gfycat.com/TheseChubbyBarasingha-max-1mb.gif");
+  /*background-image: url("https://thumbs.gfycat.com/TheseChubbyBarasingha-max-1mb.gif");*/
+  /*background-image: :url("http://cdn.firstwefeast.com/assets/2015/01/gmgd3.gif");*/
+  /*background-color: : linear-gradient(rgba(0,130,170,0),rgba(230,242,255,1))*/
+  background-repeat: repeat-x;
+  background-size: 600px 300px;
+}
+
+option {
+  width: 50%;
+}
+
+
+#Track {
+    width: 50%;
+    background-color: grey; /* Green */
+    border: none;
+    color: white;
+    align: center;
+    margin: 20px;
+    margin-left: 350px;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor:
+}
+#head
+{
+  font-size: 2em;
+}
+h3
+{
+  margin-left: 20px;
+}
+#enter_pnr
+{
+  width: 50%;
+/*background-color: #3CBC8D; */
+  font-size: 2em;
+  padding: 5px 15px;
+  align: center;
+  background-color: #e6e6e6;
+  box-shadow: 5px 2px 2px #888888;
+  margin-left: 350px;
+
+}
+#security
+{
+  font-size: 1.3em;
+  margin-left: 10px;
+}
+
+#enter
+{
+  margin-left: 350px;
+}
+table{
+  margin-left: 450px;
+  font-size: 1.3em;
+}
