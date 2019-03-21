@@ -8,4 +8,4 @@ An RFID tag is attached to the passenger's luggage at the time of check in. The 
 
 
 
-[Video Link]()
+[Video Link](https://youtu.be/auoFokurHDo)
